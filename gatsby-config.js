@@ -10,6 +10,20 @@ module.exports = {
        path: `${__dirname}/src/pages`
       }
     },
-    'gatsby-plugin-react-helmet',
-    'gatsby-transformer-remark'],
+    'gatsby-transformer-sharp',
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [
+          'gatsby-plugin-sharp',
+          {
+            resolve: 'gatsby-remark-images',
+            options: {
+              maxWidth: 800,
+            },
+          },
+        ]
+      }
+    },
+    'gatsby-plugin-react-helmet'],
 };
