@@ -1,5 +1,6 @@
 ---
 title: "Gaumukh Tapovan - Source of the ganges"
+image: gaumukh.jpg
 ---
 
 ![](gaumukh.jpg)

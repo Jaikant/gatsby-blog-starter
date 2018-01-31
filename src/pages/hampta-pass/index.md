@@ -1,5 +1,6 @@
 ---
 title: The Hampta Pass Trek
+image: ./hampta.jpg
 ---
 
 ![](hampta.jpg)

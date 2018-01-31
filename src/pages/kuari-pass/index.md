@@ -1,5 +1,6 @@
 ---
 title: "Kuari Pass Trek"
+image: kuari.jpg
 ---
 
 ![](kuari.jpg)

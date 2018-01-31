@@ -1,5 +1,6 @@
 ---
 title: "Dayara Bugyal Trek"
+image: dayara.jpg
 ---
 
 ![](dayara.jpg)
