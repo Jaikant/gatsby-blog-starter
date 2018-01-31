@@ -1,13 +1,34 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const IndexPage = () => (
+const IndexPage = ({ data }) => (
   <div>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+    {
+     data.allMarkdownRemark.edges.map((post, index) => {
+       return (
+         <div style={{padding: '16px'}}>
+           <Link to={"/"}> <h1> {post.node.frontmatter.title} </h1> </Link>
+         </div>
+       )
+      })
+    }
   </div>
 )
 
 export default IndexPage
+
+
+export const BlogsQuery = graphql`
+  query blogsQuery {
+    allMarkdownRemark {
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+          }
+        }
+      }
+    }
+  }
+`
