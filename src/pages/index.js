@@ -18,12 +18,12 @@ const IndexPage = (props) => {
             <div style={{
                    padding: '16px', 
                    margin: '16px', 
-                   width: '250px', 
+                   width: '234px', 
                    borderStyle: 'solid', 
                    borderWidth: 'thin'
                  }}
             >
-              <Link to={"/"}> 
+              <Link to={node.fields.slug}> 
                 {node.frontmatter.image ? <Img resolutions={node.frontmatter.image.childImageSharp.resolutions} /> : null }
               </Link>
               <h4> {node.frontmatter.title} </h4> 
@@ -48,6 +48,9 @@ export const BlogsQuery = graphql`
           id
           excerpt(pruneLength: 100)
           timeToRead
+          fields {
+            slug
+          }
           frontmatter {
             title
             image {

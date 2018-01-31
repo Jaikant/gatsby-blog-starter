@@ -5,7 +5,7 @@ image: gaumukh.jpg
 
 ![](gaumukh.jpg)
 
-“Gaumukh Tapovan is a trek that I have done twice. Both much earlier, when I was younger. Indiahikes wasn’t yet born. On both occasions, the trek fascinated me for different reasons.
+“Gaumukh Tapovan is a trek that I have done twice. The trek fascinated me for different reasons.
 
 The first time, it was the sight of the Bhagirathi sisters glistening in the moonlight from Bhojbasa. The second time, I was older and I appreciated the trek more. From Tapovan, Mt Shivling rises from its base all the way to its summit. That’s a rare sight — to see a mountain in its entirety. Then the aesthetics of Mt Shivling itself. There are rarely mountains that are as good looking as Mt Shivling. If there was a competition for the best looking summits of India, Mt Shivling would be right there near the top. To see such a beauty from a close range is an honour.
 
