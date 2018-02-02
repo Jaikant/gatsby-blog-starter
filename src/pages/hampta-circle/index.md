@@ -1,11 +1,19 @@
 ---
 title: "Hampta Circle Trek"
-image: kuari.jpg
+image: hampta-circle.jpg
 ---
 
-![](kuari.jpg)
+![](hampta-circle.jpg)
+
+How to decide between the Hampta Pass or the Hampta Circle trek?
+
+I would say if you are on a budget or have fewer days or this is your first high altitude trek you should choose the Hampta Circle Trek. The Hampta Circle Trek can also be done in the months of April, May and till nearly December. Whereas the Hampta Pass Trek can be done from mid June till October.
+
+If you are not sure which trek to do, here is a quick comparison of both these treks.
+
+### Season For Hampta Pass Vs Season For Hampta Circle
+The Hampta Pass trek can be done only when the snow recedes on the pass. The trek is open from June till October. The Hampta circle trek on the other hand could be done all through the year.
 
 
-The Kuari Pass trek is a highly beautiful & scenic trek. The main attraction of it is the imposing view of the eastern peaks of Garhwal Himalayas, the twin peaks of Nanda Devi, Kamet, Dronagiri, Trishul, Bertholi, Hathi Ghodi Parvat, Mana, and Neelkanth peaks. The Kuari pass is one of the most beautiful trek, famous for the enchanting view of the snow clad peaks of Neelkanth (6596m),Kamet (7756m), Mukut Parbat, Mana, Nilgiri Parbat, Trishul (7120m), Hardeol, Dronagiri, Rishi Pahar, Kalanka, Chaukhamba (7128m), Lampak, Changabang (6864m), Ronthi, Bithartoli, Kamet (7757m) and others. 
-
-The trek passes throughthree lesser Passes & five major rivers – the Pinder, Kaliganga, Nandakini, Birehiganga & Dhauli Ganga. The Trail cross through various Pristine Rhododendron, oak and deodar forest, rarely Himalayan flora and fauna are found as plenty as here. The pass is approached from the ancient trek (Goat Track) route to Joshimath, Badrinath along the pilgrim’s route. In 1905, Lord Curzon reached Kuari Pass (4150 m). Kuaripass means “door way”. He made the trek, and since then it is also known as the Curzon trail. The trail was named after Lord Curzon, who was a keen trekker & it is said that the path was specially improved so that he could trek. With independence it was renamed the Nehru Trail. This trek can be undertaken from Auli or from Debal or Ghat 
+### Route For Hampta Pass Vs Route For Hampta Circle
+The Hampta Pass trek like the name says is a trek which goes across the pass. The trek has multiple start points but it has to eventually cross the pass and end at Chhatru.  The Hampta Circle trek on the other hand does not have a fixed route, the route depends on the guide. The trek can be customised for the number of days, distance or the maximum altitude a trekker wants to touch.
